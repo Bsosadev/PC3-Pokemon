@@ -1,0 +1,113 @@
+[
+    {
+      "entrenador": "Ash Ketchum",
+      "region": "Kanto",
+      "insignia": 8,
+      "pokemons": [
+        { "nombre": "Pikachu", "tipo": "electrico", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png", "nivel": 50 },
+        { "nombre": "Charizard", "tipo": "fuego", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png", "nivel": 62 },
+        { "nombre": "Sceptile", "tipo": "planta", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/254.png", "nivel": 58 },
+        { "nombre": "Ho-Oh", "tipo": "fuego/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png", "nivel": 80 }
+      ]
+    },
+    {
+      "entrenador": "Misty",
+      "region": "Kanto",
+      "insignia": 8,
+      "pokemons": [
+        { "nombre": "Starmie", "tipo": "agua", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png", "nivel": 48 },
+        { "nombre": "Psyduck", "tipo": "agua", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png", "nivel": 42 },
+        { "nombre": "Goldeen", "tipo": "agua", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png", "nivel": 38 },
+        { "nombre": "Horsea", "tipo": "agua", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png", "nivel": 35 }
+      ]
+    },
+    {
+      "entrenador": "Brock",
+      "region": "Kanto",
+      "insignia": 8,
+      "pokemons": [
+        { "nombre": "Onix", "tipo": "roca/tierra", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png", "nivel": 45 },
+        { "nombre": "Geodude", "tipo": "roca/tierra", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png", "nivel": 40 },
+        { "nombre": "Crobat", "tipo": "veneno/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png", "nivel": 52 },
+        { "nombre": "Steelix", "tipo": "acero/tierra", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png", "nivel": 55 }
+      ]
+    },
+    {
+      "entrenador": "Gary Oak",
+      "region": "Kanto",
+      "insignia": 8,
+      "pokemons": [
+        { "nombre": "Blastoise", "tipo": "agua", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png", "nivel": 60 },
+        { "nombre": "Umbreon", "tipo": "siniestro", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png", "nivel": 56 },
+        { "nombre": "Arcanine", "tipo": "fuego", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png", "nivel": 58 },
+        { "nombre": "Alakazam", "tipo": "psiquico", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png", "nivel": 54 }
+      ]
+    },
+    {
+      "entrenador": "May",
+      "region": "Hoenn",
+      "insignia": 5,
+      "pokemons": [
+        { "nombre": "Blaziken", "tipo": "fuego/lucha", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png", "nivel": 47 },
+        { "nombre": "Beautifly", "tipo": "bicho/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png", "nivel": 43 },
+        { "nombre": "Skitty", "tipo": "normal", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png", "nivel": 39 },
+        { "nombre": "Combusken", "tipo": "fuego/lucha", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/256.png", "nivel": 45 }
+      ]
+    },
+    {
+        "entrenador": "Cynthia",
+        "region": "Sinnoh",
+        "insignia": 8,
+        "pokemons": [
+          { "nombre": "Garchomp", "tipo": "dragon/tierra", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png", "nivel": 75 },
+          { "nombre": "Lucario", "tipo": "lucha/acero", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png", "nivel": 72 },
+          { "nombre": "Spiritomb", "tipo": "fantasma/siniestro", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/442.png", "nivel": 70 },
+          { "nombre": "Roserade", "tipo": "planta/veneno", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/407.png", "nivel": 68 }
+        ]
+      },
+      {
+        "entrenador": "Red",
+        "region": "Kanto",
+        "insignia": 8,
+        "pokemons": [
+          { "nombre": "Venusaur", "tipo": "planta/veneno", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png", "nivel": 78 },
+          { "nombre": "Pikachu", "tipo": "electrico", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png", "nivel": 75 },
+          { "nombre": "Snorlax", "tipo": "normal", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png", "nivel": 73 },
+          { "nombre": "Lapras", "tipo": "agua/hielo", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png", "nivel": 70 }
+        ]
+      },
+      {
+        "entrenador": "Lance",
+        "region": "Johto",
+        "insignia": 8,
+        "pokemons": [
+          { "nombre": "Dragonite", "tipo": "dragon/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png", "nivel": 80 },
+          { "nombre": "Gyarados", "tipo": "agua/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png", "nivel": 78 },
+          { "nombre": "Aerodactyl", "tipo": "roca/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png", "nivel": 75 },
+          { "nombre": "Charizard", "tipo": "fuego/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png", "nivel": 72 }
+        ]
+      },
+      {
+        "entrenador": "Steven Stone",
+        "region": "Hoenn",
+        "insignia": 8,
+        "pokemons": [
+          { "nombre": "Metagross", "tipo": "acero/psiquico", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png", "nivel": 76 },
+          { "nombre": "Aggron", "tipo": "acero/roca", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png", "nivel": 74 },
+          { "nombre": "Skarmory", "tipo": "acero/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png", "nivel": 72 },
+          { "nombre": "Claydol", "tipo": "tierra/psiquico", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/344.png", "nivel": 70 }
+        ]
+      },
+      {
+        "entrenador": "Leon",
+        "region": "Galar",
+        "insignia": 8,
+        "pokemons": [
+          { "nombre": "Charizard", "tipo": "fuego/volador", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png", "nivel": 82 },
+          { "nombre": "Dragapult", "tipo": "dragon/fantasma", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/887.png", "nivel": 80 },
+          { "nombre": "Haxorus", "tipo": "dragon", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png", "nivel": 78 },
+          { "nombre": "Aegislash", "tipo": "acero/fantasma", "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png", "nivel": 75 }
+        ]
+      }
+  ]
+  

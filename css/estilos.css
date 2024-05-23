@@ -1,0 +1,155 @@
+body {
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#entrenadores {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.entrenador {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.entrenador h2 {
+  margin-bottom: 10px;
+}
+
+.pokemon {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.pokemon img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.pokemon-type {
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+/* Colores de tipo (ajusta según tus preferencias) */
+/* Tipos Básicos */
+.fuego {
+  background-color: #F08030;
+  color: white;
+}
+
+.agua {
+  background-color: #6890F0;
+  color: white;
+}
+
+.planta {
+  background-color: #78C850;
+  color: white;
+}
+
+.electrico {
+  background-color: #F8D030;
+}
+
+.normal {
+  background-color: #A8A878;
+}
+
+.roca {
+  background-color: #B8A038;
+  color: white;
+}
+
+.siniestro {
+  background-color: #705848;
+  color: white;
+}
+
+.bicho {
+  background-color: #A8B820;
+}
+
+.veneno {
+  background-color: #A040A0;
+  color: white;
+}
+
+.volador {
+  background-color: #A890F0;
+  color: white;
+}
+
+.lucha {
+  background-color: #C03028;
+  color: white;
+}
+
+.psiquico {
+  background-color: #F85888;
+  color: white;
+}
+
+.acero {
+  background-color: #B8B8D0;
+}
+
+.tierra {
+  background-color: #E0C068;
+}
+
+
+/* Tipos Compuestos (Combinaciones) */
+.fuego .volador {
+  background-color: #F0BD42;
+  color: black;
+}
+
+/* Ejemplo: Fuego/Volador */
+.roca .tierra {
+  background-color: #D8BD68;
+  color: black;
+}
+
+/* Ejemplo: Roca/Tierra */
+.veneno .volador {
+  background-color: #B060B0;
+  color: white;
+}
+
+/* Ejemplo: Veneno/Volador */
+.bicho .volador {
+  background-color: #98C830;
+}
+
+/* Ejemplo: Bicho/Volador */
+.fuego .lucha {
+  background-color: #D04038;
+  color: white;
+}
+
+/* Tipo Dragón/Fantasma */
+.dragon.fantasma {
+  background: linear-gradient(to right, #6F35FC, #705898);
+  color: white;
+}
+
+/* Tipo Fuego (si aún no lo tienes) */
+.dragon {
+  background-color: #7038F8;
+  color: white;
+}
